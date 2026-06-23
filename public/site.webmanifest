@@ -1,0 +1,12 @@
+{
+  "name": "Rekha Makeover Salon",
+  "short_name": "Rekha Salon",
+  "description": "Premium beauty & bridal makeover salon in Pratap Nagar, Jaipur.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#241826",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
