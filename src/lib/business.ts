@@ -8,28 +8,28 @@ import type { LucideIcon } from "lucide-react";
 export const SITE_URL: string = ""; // set after publish
 
 export const BUSINESS = {
-  name: "Rekha Makeover Salon",
+  name: "Makeover Salon",
   tagline: "Premium Beauty & Bridal Makeover Studio",
   shortDesc:
     "Premium beauty, bridal makeup, hair, skin, nails, and grooming in Pratap Nagar, Jaipur.",
-  phone: "+91 7014112074",
-  phoneRaw: "+917014112074",
-  tel: "tel:+917014112074",
-  whatsapp: "917014112074",
+  phone: "+91 9999999999",
+  phoneRaw: "+919999999999",
+  tel: "tel:+919999999999",
+  whatsapp: "919999999999",
   waLink:
-    "https://wa.me/917014112074?text=Hi%20Rekha%20Makeover%20Salon%2C%20I%20want%20to%20book%20an%20appointment.",
+    "https://wa.me/919999999999?text=Hi%20Makeover%20Salon%2C%20I%20want%20to%20book%20an%20appointment.",
   email: "",
   address:
-    "101, 74 Kumbha Marg, opposite Navneet Path Lab & Sharma Sweets, Sector 10, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "Kumbha Marg, opposite Sharma Sweets, Sector 2, Pratap Nagar, Jaipur, Rajasthan 302033",
   addressShort: "Kumbha Marg, Pratap Nagar, Jaipur",
   city: "Jaipur",
   region: "Rajasthan",
   country: "IN",
   postal: "302033",
   geo: { lat: 26.8121, lng: 75.8205 },
-  mapLink: "https://maps.app.goo.gl/r1idZLgCNDuiQJvK7",
+  mapLink: "https://maps.app.goo.gl/PqXaS2SpWyLVNhvX9",
   mapEmbed:
-    "https://www.google.com/maps?q=Rekha+Makeover+Salon+Kumbha+Marg+Pratap+Nagar+Jaipur&output=embed",
+    "https://maps.app.goo.gl/PqXaS2SpWyLVNhvX9",
   hours: "Mon – Sun, 9:00 AM – 9:00 PM",
   hoursSpec: ["Mo-Su 09:00-21:00"],
   rating: 4.9,
