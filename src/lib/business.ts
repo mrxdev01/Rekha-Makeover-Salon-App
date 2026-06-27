@@ -29,7 +29,7 @@ export const BUSINESS = {
   geo: { lat: 26.8121, lng: 75.8205 },
   mapLink: "https://maps.app.goo.gl/PqXaS2SpWyLVNhvX9",
   mapEmbed:
-    "https://www.google.com/maps/dir//ISKCON+Bangalore,+Hare+Krishna+Hill,+Chord+Rd,+1st+R+Block,+Rajajinagar,+Bengaluru,+Karnataka+560010/@13.0096695,77.5485595,17z/data=!4m16!1m7!3m6!1s0x3bae3ded0b360e07:0x7a7fb24a41a6b2b3!2sISKCON+Bangalore!8m2!3d13.0096643!4d77.5511344!16s%2Fm%2F0g9x5qd!4m7!1m0!1m5!1m1!1s0x3bae3ded0b360e07:0x7a7fb24a41a6b2b3!2m2!1d77.5511344!2d13.0096643?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    "https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=https://maps.app.goo.gl/QvYWnVmxVjLgsnLd7&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
   hours: "Mon – Sun, 9:00 AM – 9:00 PM",
   hoursSpec: ["Mo-Su 09:00-21:00"],
   rating: 4.9,
