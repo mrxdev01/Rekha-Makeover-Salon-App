@@ -29,7 +29,7 @@ export const BUSINESS = {
   geo: { lat: 26.8121, lng: 75.8205 },
   mapLink: "https://maps.app.goo.gl/PqXaS2SpWyLVNhvX9",
   mapEmbed:
-    "https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=https://maps.app.goo.gl/QvYWnVmxVjLgsnLd7&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed",
+    "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d995440.5281743617!2d77.2436236911819!3d12.943700674900912!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae3ded0b360e07%3A0x7a7fb24a41a6b2b3!2sISKCON%20Bangalore!5e0!3m2!1sen!2sin!4v1782551081030!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin",
   hours: "Mon – Sun, 9:00 AM – 9:00 PM",
   hoursSpec: ["Mo-Su 09:00-21:00"],
   rating: 4.9,
